@@ -33,3 +33,38 @@ body {
     background-image: linear-gradient(white, red);
     border-radius: 20px;
 }
+
+.DonateToday h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+.DonateToday p {
+    text-align: center;
+}
+
+.Alldonate {
+    display: flex;
+    justify-content: center;
+}
+
+.amount {
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 30px;
+    box-shadow: 20px 15px 60px grey;
+}
+
+.selectAmount {
+    border: 5px solid red;
+    background-image: linear-gradient(rgb(219, 213, 213), rgb(108, 70, 70));
+}
+
+.otherAmount {
+    margin-top: 100px;
+    margin-bottom: 40px;
+
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
